@@ -1,0 +1,17 @@
+/Users/omer/Desktop/Projects/NewAPI_Activity5/bin/Debug/net6.0/NewAPI_Activity5
+/Users/omer/Desktop/Projects/NewAPI_Activity5/bin/Debug/net6.0/NewAPI_Activity5.deps.json
+/Users/omer/Desktop/Projects/NewAPI_Activity5/bin/Debug/net6.0/NewAPI_Activity5.runtimeconfig.json
+/Users/omer/Desktop/Projects/NewAPI_Activity5/bin/Debug/net6.0/NewAPI_Activity5.dll
+/Users/omer/Desktop/Projects/NewAPI_Activity5/bin/Debug/net6.0/NewAPI_Activity5.pdb
+/Users/omer/Desktop/Projects/NewAPI_Activity5/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/omer/Desktop/Projects/NewAPI_Activity5/obj/Debug/net6.0/NewAPI_Activity5.csproj.AssemblyReference.cache
+/Users/omer/Desktop/Projects/NewAPI_Activity5/obj/Debug/net6.0/NewAPI_Activity5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omer/Desktop/Projects/NewAPI_Activity5/obj/Debug/net6.0/NewAPI_Activity5.AssemblyInfoInputs.cache
+/Users/omer/Desktop/Projects/NewAPI_Activity5/obj/Debug/net6.0/NewAPI_Activity5.AssemblyInfo.cs
+/Users/omer/Desktop/Projects/NewAPI_Activity5/obj/Debug/net6.0/NewAPI_Activity5.csproj.CoreCompileInputs.cache
+/Users/omer/Desktop/Projects/NewAPI_Activity5/obj/Debug/net6.0/NewAPI_Activity5.csproj.CopyComplete
+/Users/omer/Desktop/Projects/NewAPI_Activity5/obj/Debug/net6.0/NewAPI_Activity5.dll
+/Users/omer/Desktop/Projects/NewAPI_Activity5/obj/Debug/net6.0/refint/NewAPI_Activity5.dll
+/Users/omer/Desktop/Projects/NewAPI_Activity5/obj/Debug/net6.0/NewAPI_Activity5.pdb
+/Users/omer/Desktop/Projects/NewAPI_Activity5/obj/Debug/net6.0/NewAPI_Activity5.genruntimeconfig.cache
+/Users/omer/Desktop/Projects/NewAPI_Activity5/obj/Debug/net6.0/ref/NewAPI_Activity5.dll
