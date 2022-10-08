@@ -78,7 +78,7 @@ namespace WebAPIClient
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("ERROR. Please enter a valid name!");
+                    Console.WriteLine("ERROR. Please enter a valid id!");
                 }
             }
         }
